@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "103003968024",
+    "firebase_url": "https://dbconnect-5145f.firebaseio.com",
+    "project_id": "dbconnect-5145f",
+    "storage_bucket": "dbconnect-5145f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103003968024:android:9b9aee8fbac49240b8296d",
+        "android_client_info": {
+          "package_name": "com.example.dbconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103003968024-qmeeaoa8j578nc3avd34ijvkq4v65cvm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dbconnect",
+            "certificate_hash": "87497aa5e4ffb49870bc4119126fefc6c7d55905"
+          }
+        },
+        {
+          "client_id": "103003968024-p5btfb6krli9qftqmse7t76e521ujq1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANFN3iOASUyWb-f6EMN5vRrQCb4KM4XHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103003968024-p5btfb6krli9qftqmse7t76e521ujq1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
